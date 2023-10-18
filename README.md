@@ -1,3 +1,3 @@
 # SoftUni-Courses
 
-Courses from my QA education @ SoftUni
+Courses from my QA education @ SoftUni Sept 2023
